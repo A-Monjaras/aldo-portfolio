@@ -1,0 +1,95 @@
+<svg width="1200" height="675" viewBox="0 0 1200 675" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Field Report App</title>
+<desc>Portfolio cover image: a photo-to-Word field report generator. Upload photos, fill in optional details, download a .docx.</desc>
+
+<rect x="0" y="0" width="1200" height="675" fill="#241c3f"/>
+
+<g stroke="#ffffff" stroke-opacity="0.05" stroke-width="1">
+  <line x1="700" y1="0" x2="1200" y2="500"/>
+  <line x1="820" y1="0" x2="1200" y2="380"/>
+  <line x1="940" y1="0" x2="1200" y2="260"/>
+  <line x1="1060" y1="0" x2="1200" y2="140"/>
+  <line x1="1200" y1="0" x2="700" y2="500"/>
+  <line x1="0" y1="560" x2="420" y2="675"/>
+  <line x1="0" y1="460" x2="220" y2="675"/>
+</g>
+
+<rect x="80" y="64" width="64" height="64" rx="16" fill="#7f77dd"/>
+<rect x="96" y="80" width="26" height="34" rx="3" fill="#241c3f"/>
+<rect x="112" y="98" width="20" height="26" rx="3" fill="#ffffff"/>
+
+<text x="164" y="98" font-family="Arial, Helvetica, sans-serif" font-size="36" font-weight="700" fill="#ffffff">Field Report App</text>
+<text x="164" y="124" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#c9c3ea">Photo-to-Word field report generator</text>
+
+<text font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#d6d1f0">
+  <tspan x="80" y="182">Turn a stack of site photos into a polished Word field report</tspan>
+  <tspan x="80" y="210">in minutes, not hours &#8212; every field is optional.</tspan>
+</text>
+
+<g>
+  <rect x="110" y="260" width="300" height="210" rx="16" fill="#2f2657" stroke="#46396f" stroke-width="1"/>
+  <circle cx="260" cy="320" r="28" fill="#3a2f6b"/>
+  <g stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <rect x="244" y="308" width="32" height="24" rx="3"/>
+    <circle cx="260" cy="320" r="6"/>
+  </g>
+  <text x="260" y="378" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Upload photos</text>
+  <text font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#b9b2dd" text-anchor="middle">
+    <tspan x="260" y="404">Drag, drop, or select</tspan>
+    <tspan x="260" y="424">straight from your phone</tspan>
+  </text>
+</g>
+
+<path d="M420 365 L448 365" stroke="#7f77dd" stroke-width="2.5" fill="none"/>
+<path d="M440 356 L450 365 L440 374" stroke="#7f77dd" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+<g>
+  <rect x="450" y="260" width="300" height="210" rx="16" fill="#2f2657" stroke="#46396f" stroke-width="1"/>
+  <circle cx="600" cy="320" r="28" fill="#3a2f6b"/>
+  <g stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <rect x="586" y="306" width="28" height="28" rx="3"/>
+    <line x1="592" y1="314" x2="608" y2="314"/>
+    <line x1="592" y1="320" x2="608" y2="320"/>
+    <line x1="592" y1="326" x2="602" y2="326"/>
+  </g>
+  <text x="600" y="378" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Fill in what you need</text>
+  <text font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#b9b2dd" text-anchor="middle">
+    <tspan x="600" y="404">Project info, notes, template</tspan>
+    <tspan x="600" y="424">&#8212; or skip it all</tspan>
+  </text>
+</g>
+
+<path d="M760 365 L788 365" stroke="#7f77dd" stroke-width="2.5" fill="none"/>
+<path d="M780 356 L790 365 L780 374" stroke="#7f77dd" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+
+<g>
+  <rect x="790" y="260" width="300" height="210" rx="16" fill="#2f2657" stroke="#46396f" stroke-width="1"/>
+  <circle cx="940" cy="320" r="28" fill="#3a2f6b"/>
+  <g stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <rect x="925" y="306" width="20" height="26" rx="2"/>
+    <line x1="951" y1="311" x2="951" y2="327"/>
+    <path d="M945 322 L951 328 L957 322"/>
+  </g>
+  <text x="940" y="378" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#ffffff">Download .docx</text>
+  <text font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#b9b2dd" text-anchor="middle">
+    <tspan x="940" y="404">Formatted, photo-paginated</tspan>
+    <tspan x="940" y="424">report &#8212; ready to send</tspan>
+  </text>
+</g>
+
+<g font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#d8d3f2">
+  <rect x="202" y="522" width="150" height="36" rx="18" fill="#2f2657" stroke="#46396f" stroke-width="1"/>
+  <text x="277" y="545" text-anchor="middle">Node + Express</text>
+
+  <rect x="368" y="522" width="196" height="36" rx="18" fill="#2f2657" stroke="#46396f" stroke-width="1"/>
+  <text x="466" y="545" text-anchor="middle">Python + python-docx</text>
+
+  <rect x="580" y="522" width="196" height="36" rx="18" fill="#2f2657" stroke="#46396f" stroke-width="1"/>
+  <text x="678" y="545" text-anchor="middle">Pluggable templates</text>
+
+  <rect x="792" y="522" width="196" height="36" rx="18" fill="#2f2657" stroke="#46396f" stroke-width="1"/>
+  <text x="890" y="545" text-anchor="middle">Everything optional</text>
+</g>
+
+<text x="80" y="612" font-family="Arial, Helvetica, sans-serif" font-size="14" fill="#9d96c4">fieldreportapp &#183; built by Aldo Monjaras</text>
+</svg>

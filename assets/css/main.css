@@ -683,10 +683,12 @@ section { padding-block: clamp(64px, 10vw, 112px); }
 
 .case__media {
 	margin: 28px 0 0;
-	max-width: 340px;
+	max-width: 820px;
 	position: relative;
 }
-.case__media picture {
+
+.case__media picture,
+.case__media > img {
 	display: block;
 	border: 1px solid var(--ink-15);
 	overflow: hidden;
